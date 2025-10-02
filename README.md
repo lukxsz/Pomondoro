@@ -19,6 +19,10 @@ Este projeto está sendo desenvolvido como parte do meu portfólio pessoal, com 
 * **Gerador de Imagem para Compartilhamento:** Ao final da semana, o aplicativo gera uma imagem customizada com a sua coleção de Pokémon para você compartilhar nas redes sociais.
 * **Integração com a PokeAPI:** Utiliza a [PokeAPI](https://pokeapi.co/) para obter dados e sprites dos Pokémon de forma dinâmica.
 
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ## 👨‍💻 Autor
 
 **Lukas Grava da Silva**
